@@ -1,0 +1,3 @@
+streamlit==0.88.0
+groq==0.1.0  # Replace with the actual version of groq you are using
+python-dotenv==0.19.2
